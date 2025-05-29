@@ -13,5 +13,5 @@
 - [Бесплатная часть Практикума](ссылка)
 - [Полезный гайд по Markdown](https://commonmark.org/help/)
 
-- ```python
+
 
