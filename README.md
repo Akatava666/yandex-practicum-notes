@@ -13,4 +13,5 @@
 - [Бесплатная часть Практикума](ссылка)
 - [Полезный гайд по Markdown](https://commonmark.org/help/)
 
-
+## Мотивация
+Посмотреть мой первый скрипт: [motivation.py](motivation.py)
